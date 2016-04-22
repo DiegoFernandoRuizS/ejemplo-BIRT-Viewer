@@ -5,3 +5,6 @@
 /bookstore-web/nbproject/
 /bookstore-logic/derby.log
 /bookstore-web/derby.log
+.project
+.settings
+Todo.lunch
